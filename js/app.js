@@ -21,7 +21,7 @@
       var nDishes = dishes.length;
 
       if (nDishes <= 3) {
-        $scope.msg = "Engjoy!";
+        $scope.msg = "Enjoy!";
       }
       else {
         $scope.msg = "Too much!";
