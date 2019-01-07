@@ -17,7 +17,7 @@
       }
 
       // if not empty
-      var dishes = list.split(', ');
+      var dishes = list.split(',');
       var nDishes = dishes.length;
 
       if (nDishes <= 3) {
